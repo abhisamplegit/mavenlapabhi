@@ -8,11 +8,9 @@
     <artifactId>mavendemo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies><!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
-        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chromium-driver -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-chromium-driver</artifactId>
+            <artifactId>selenium-java</artifactId>
             <version>4.33.0</version>
         </dependency></dependencies>
 
